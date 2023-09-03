@@ -12,7 +12,7 @@
 (function() {
     'use strict';
     var link = document.createElement("link");
-link.href = "https://cdn.discordapp.com/attachments/965460197072044062/1111049150222573668/Fluent.theme.css";
+link.href = "https://cdn.discordapp.com/attachments/965460197072044062/1147747965168001154/Fluent.css";
 link.type = "text/css";
 link.rel = "stylesheet";
 document.getElementsByTagName("head")[0].appendChild(link);
