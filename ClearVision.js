@@ -12,7 +12,7 @@
 (function() {
     'use strict';
     var link = document.createElement("link");
-link.href = "https://cdn.discordapp.com/attachments/965460197072044062/1075577634777473044/ClearVision.css";
+link.href = "https://cdn.discordapp.com/attachments/965460197072044062/1167661912138461264/ClearVision_v6.theme.css";
 link.type = "text/css";
 link.rel = "stylesheet";
 document.getElementsByTagName("head")[0].appendChild(link);
